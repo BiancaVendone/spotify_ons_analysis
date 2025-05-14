@@ -1,4 +1,3 @@
-# spotify_ons_analysis
 Spotify Listening Trends and the Economic Climate
 Project Overview
 This data science project investigates the relationship between Spotify users' genre preferences and key macroeconomic indicators in the UK, including:
